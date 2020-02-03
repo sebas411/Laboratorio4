@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuateInfo</string>
+    <string name="antigua">Antigua</string>
+    <string name="panajachel">panajachel</string>
+    <string name="flores">flores</string>
+    <string name="antiguaImg">antiguaImg</string>
+</resources>
