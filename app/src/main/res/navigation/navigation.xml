@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation.xml"
+    app:startDestination="@id/fragment_1">
+    <fragment
+        android:id="@+id/fragment_1"
+        android:name="com.example.guateinfo.Fragment_1"
+        android:label="Fragment_1"
+        tools:layout="@layout/fragment_1">
+        <action
+            android:id="@+id/action_fragment_1_to_floresFragment"
+            app:destination="@id/floresFragment" />
+        <action
+            android:id="@+id/action_fragment_1_to_panaFragment"
+            app:destination="@id/panaFragment" />
+        <action
+            android:id="@+id/action_fragment_1_to_antiguaFragment"
+            app:destination="@id/antiguaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.example.guateinfo.AboutFragment"
+        android:label="AboutFragment"
+        tools:layout="@layout/fragment_about"/>
+    <fragment
+        android:id="@+id/antiguaFragment"
+        android:name="com.example.guateinfo.AntiguaFragment"
+        android:label="fragment_antigua"
+        tools:layout="@layout/fragment_antigua" >
+        <action
+            android:id="@+id/action_antiguaFragment_to_fragment_1"
+            app:destination="@id/fragment_1"
+            app:popUpTo="@+id/fragment_1"
+            app:popUpToInclusive="false" />
+    </fragment>
+    <fragment
+        android:id="@+id/panaFragment"
+        android:name="com.example.guateinfo.PanaFragment"
+        android:label="fragment_pana"
+        tools:layout="@layout/fragment_pana" >
+        <action
+            android:id="@+id/action_panaFragment_to_fragment_1"
+            app:destination="@id/fragment_1"
+            app:popUpTo="@+id/fragment_1"
+            app:popUpToInclusive="false" />
+    </fragment>
+    <fragment
+        android:id="@+id/floresFragment"
+        android:name="com.example.guateinfo.FloresFragment"
+        android:label="fragment_flores"
+        tools:layout="@layout/fragment_flores" >
+        <action
+            android:id="@+id/action_floresFragment_to_fragment_1"
+            app:destination="@id/fragment_1"
+            app:popUpTo="@+id/fragment_1"
+            app:popUpToInclusive="false" />
+    </fragment>
+</navigation>

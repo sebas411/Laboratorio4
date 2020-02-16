@@ -5,4 +5,37 @@
     <string name="flores">flores</string>
     <string name="antiguaImg">antiguaImg</string>
     <string name="Nombre">Nombre</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="boton_estrella">boton de estrella</string>
+    <string name="descripcion">Sebastián Maldonado\n
+    Yo soy un estudiante de ingeriería en ciencias de la computación. Tengo 20 años. Mi deporte favorito es equitación y llevo practicando desde primero básico
+    . Siempre me ha llamado la atencion las ciencias y las matematicas.</string>
+    <string name="about">about</string>
+    <string name="antiguaTitulo">Antigua Guatemala</string>
+    <string name="antiguaFrase">Muy Noble y Muy Leal Ciudad de Santiago de los Caballeros de Guatemala</string>
+    <string name="antiguaDescripcion">El municipio de Antigua Guatemala limita al norte con Jocotenango y Santa Lucía Milpas Altas, al este Santa Lucía Milpas Altas, Magdalena Milpas Altas y Santa María de Jesús y al oeste con San Antonio Aguas Calientes y Ciudad Vieja -todos del departamento de Sacatepéquez-. Su clima es templado y su fiesta titular se celebra el 25 de julio, como día principal en conmemoración del Apóstol Santiago. Antigua Guatemala fue fundada oficialmente el 10 de marzo de 1543 por Pedro de Alvarado, al declararse como capital de la provincia. Está situada en el Valle de Panchoy o Pancán y fue la capital de Guatemala hasta que el 29 de julio de 1773 los terremotos de Santa Marta la dañaran (Diccionario Municipal de Guatemala, 2001).</string>
+    <string name="panaTitulo">Panajachel</string>
+    <string name="panaFrase">Panajachel, Solola</string>
+    <string name="panaDescripcion">El municipio de Panajachel, también conocido como Pana, se encuentra en el municipio de Sololá, en la margen norte del lago Atitlán. Panajachel es el portal del lago Atitlán, al que hay quien llama “el lago más bello del mundo”. Panajachel es un pequeño pueblo tranquilo con unos 11.000 habitantes y con una vista espectacular, donde el viajero encontrará restaurantes, hoteles, vida nocturna con locales de música en directo y un buen lugar para relajarse unos días. Se pueden visitar los pueblos de los alrededores y algunas reservas naturales.
+    \n\n
+    La población de Panajachel fue fundada el 12 de septiembre de 1684 por el español Miguel Calderón de Rojas. Tiene un clima templado, con temperaturas cálidas durante el día y frescas durante la noche.
+    \n\nPanajachel suele ser un buen punto para visitar diferentes pueblos en los alrededores, como Santiago Atitlan, Santa Catarina y San Antonio Palopo.
+\n\n
+En Panajachel han empezado a funcionar varias escuelas de español, y la afluencia de turistas han hecho surgir tiendas de recuerdos a lo largo de toda la calle principal, la famosa calle Santander. Además la ciudad ofrece aspectos de interés cultural. La restauración de la iglesia católica del siglo XVI, nos recuerda la misión de franciscanos que se establecieron en la ciudad para cristianizar a la población indígena en la orilla norte del lago.
+\n\n
+Además existe un museo del Lago Atitlan  así como la Reserva Natural de San Buenaventura y el Centro Cultural Los Encuentros, que aunque muy pequeño, se dedica a promover la cultura maya local. Los encargados del centro facilitan encuentros con chamanes indígenas, pintores o tejedores en sus propios lugares de trabajo. Los pueblos indígenas que más visitas atrae son Santiago Atitlán, Santa Catarina Palopó y San Antonio Palopó. La reserva natural es un lugar dedicado a preservar la flora y la fauna del ecosistema del lago, donde existe una gran variedad de plantas medicinales. Pueden verse monos y andar sobre unos puentes que salvan grandes cascadas.
+
+</string>
+    <string name="floresTitulo">Flores</string>
+    <string name="floresFrase">Isla de Flores, Peten</string>
+    <string name="floresDescripcion">La Isla de Flores y Santa Elena de la Cruz forman una ciudad, que junto al área central del Municipio de San Benito, forman parte de una de las áreas de Petén en la cual se concentran actividades económicas de comercio, el turismo y la industria.
+
+\n\n
+En el periodo Precolombino, Flores fue una ciudad de la civilización Maya llamada Tayasal.
+\n\n
+Según investigaciones arqueológicas, realizadas en 1992, la isla tuvo una ocupación de fecha aproximada, desde el año 300 A.C.
+\n\n
+Flores está conectada a tierra firme por un istmo de tierra artificial que hace de la ciudad una pequeña península y que sirve de medio de comunicación con Santa Elena y con San Benito. Este es el punto de partida para una gran variedad de Destinos turísticos, entre ellos Tikal, Ixpanpajul, El Mirador, Las Cuevas de Actún Kan, etc.</string>
 </resources>
